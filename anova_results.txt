@@ -1,0 +1,10 @@
+Analysis of Variance Table
+
+Response: Yield
+                      Df Sum Sq Mean Sq F value Pr(>F)    
+Genotype               9 68.540  7.6156 48.2141 <2e-16 ***
+Environment            4  0.259  0.0648  0.4104 0.8008    
+Genotype:Environment  36  5.212  0.1448  0.9166 0.6065    
+Residuals            100 15.795  0.1580                   
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
